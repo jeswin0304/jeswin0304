@@ -2,7 +2,7 @@
 <h3 align="left">Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mongodb,mysql," />
 <h3 align="left">Education:</h3>
-SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
+<img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" />SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
 <!--
 **jeswin0304/jeswin0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
