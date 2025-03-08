@@ -4,6 +4,10 @@
 <h3 align="left">Education:</h3>
 <img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" />SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
 -B.Tech in CSE with Specialization in AI and ML 2023-2027
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeswin0304&show_icons=true&theme=tokyonight&locale=en" alt="jeswin0304" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeswin0304&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jeswin0304" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jeswin0304&theme=dark" alt="GitHub Streak" /></a>
 
 
 <!--
