@@ -2,6 +2,7 @@
 <h3 align="left">Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mongodb,mysql," />
 <h3 align="left">Education:</h3>
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
 <!--
 **jeswin0304/jeswin0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
