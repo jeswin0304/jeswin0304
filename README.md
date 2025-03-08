@@ -8,6 +8,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeswin0304&show_icons=true&theme=tokyonight&locale=en" alt="jeswin0304" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeswin0304&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jeswin0304" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jeswin0304&theme=dark" alt="GitHub Streak" /></a>
 
 <!--
 **jeswin0304/jeswin0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
