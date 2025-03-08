@@ -7,6 +7,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeshwinnikhil@gmail.com)
 
+[![jeswin's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=jeswin0304&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeswin0304&theme=dark&cache_seconds=1800)](https://git.io/streak-stats)
+[![jeswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeswin0304&count_private=true&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jeswin0304/jeswin0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
