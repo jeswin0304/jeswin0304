@@ -5,7 +5,9 @@
 <img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" />SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
 -B.Tech in CSE with Specialization in AI and ML 2023-2027
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeswin0304&show_icons=true&theme=tokyonight&locale=en" alt="jeswin0304" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeswin0304&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jeswin0304" /></p>
 
 <!--
 **jeswin0304/jeswin0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
